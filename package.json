@@ -14,6 +14,8 @@
   "bugs": {
     "url": "https://github.com/JionghaoSong/AssetsRepo/issues"
   },
+  "files": ["imgs"], 
   "homepage": "https://github.com/JionghaoSong/AssetsRepo#readme",
   "description": "jionghaosong static file"
 }
+
