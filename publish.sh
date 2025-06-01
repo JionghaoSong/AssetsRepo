@@ -12,6 +12,10 @@ git commit -m "npm publish"
 echo "🟠 升级版本号（patch）..."
 npm version patch
 
+# npm version patch: Increments the patch version, creates a Git tag, and commits.
+# npm version minor: Increments the minor version.
+# npm version major: Increments the major version.
+
 echo "🔵 推送到 GitHub..."
 git push
 
